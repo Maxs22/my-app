@@ -15,3 +15,13 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### esta app muesta en tiempo real peliculas de estreno y una landing donde se puede ver la descripcion de cada una.
+
+## Aqui se pueden ver los estrenos en tiempo real
+
+
+![PelisAr](https://user-images.githubusercontent.com/80960155/138294996-382a05cc-a3a7-4769-847b-f8d054f8adbb.png)
+
+
+## Aqui se ve el titulo de la pelicula, actores principales y descripcion.
+
+![landing](https://user-images.githubusercontent.com/80960155/138295269-37785cbd-3a38-4683-9136-b08f18192f38.png)
